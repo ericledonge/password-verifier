@@ -1,7 +1,18 @@
-# Vue 3 + Vite
+# Password Verifier
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Project inspired by James Q Quick initiative [Advent of Javascript](https://www.adventofjs.com/)
 
-## Recommended IDE Setup
+# Specs
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+Users should be able to:
+
+- type in a digit and automatically be taken to the next input
+- paste in a 4 digit code
+
+# Demo
+
+You can use it there: 
+
+# Tech Stack
+
+Vue and Vite.
